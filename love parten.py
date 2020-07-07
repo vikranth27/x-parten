@@ -1,3 +1,5 @@
+
+print("only works when input is less than 9")
 x=int(input("enter length of pixel"))
 
 
@@ -33,3 +35,5 @@ while i<=y:
     if i==y//2+1:
         break
 print("")
+
+
