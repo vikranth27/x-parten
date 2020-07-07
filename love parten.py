@@ -1,6 +1,6 @@
 
 print("only works when input is less than 9")
-x=int(input("enter length of pixel"))
+x = int(input("enter height of symbol"))
 
 
 y=x-1
